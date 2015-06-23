@@ -1,0 +1,5 @@
+D:\Daniel\Visual studio\server\server\bin\Debug\server.exe
+D:\Daniel\Visual studio\server\server\bin\Debug\server.pdb
+D:\Daniel\Visual studio\server\server\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Daniel\Visual studio\server\server\obj\x86\Debug\server.exe
+D:\Daniel\Visual studio\server\server\obj\x86\Debug\server.pdb
